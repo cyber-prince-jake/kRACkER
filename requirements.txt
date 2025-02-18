@@ -1,0 +1,7 @@
+argparse
+hashlib
+bcrypt
+cryptography
+passlib
+rich
+pycuda
