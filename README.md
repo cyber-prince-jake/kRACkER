@@ -1,7 +1,3 @@
-Here's the updated `README.md` with the attribution to you, Prince Jake:
-
----
-
 # kRACkER - Advanced Password Cracker 🚀
 
 kRACkER is a powerful and flexible password cracking tool designed to demonstrate various attack methods for password hashes. It supports brute force, dictionary, hybrid, and rainbow table attacks. You can use it to crack passwords of various hash algorithms such as MD5, SHA-256, and more.
